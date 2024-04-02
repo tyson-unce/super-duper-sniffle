@@ -1,0 +1,12 @@
+{
+  "name": "super-duper-sniffle",
+  "version": "1.0.0",
+  "description": "This repository serves as a playground for exploring new features and capabilities of Next.js using Node.js. Feel free to fork, clone, or contribute to this project as you see fit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
